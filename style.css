@@ -1,0 +1,161 @@
+#burger
+{
+
+    height: 50px;
+    width: 50pxs;
+    margin: 2   0pxs;
+
+}
+
+.nav1{
+
+    display: flex;
+
+}
+
+.plain{
+
+    margin-right: 10px;
+    margin-left: 10px;
+
+}
+
+.select_nav{
+
+    text-align: center;
+    margin-top: 8px;
+    width: 100px;
+    height: 30px;
+
+}
+.div2{
+
+    width: 100%;
+}
+/* .search_bar{
+
+    margin-left:15%;
+    margin-right:50%;
+    width: 500px;
+    height: 50px;
+    padding-left: 30px;
+    border-radius: 50px;
+} */
+
+#search_main{
+    display: flex;
+    border: 1px solid black;
+    width: 650px;
+    border-radius: 50px;
+    margin-left: 200px;
+    
+}
+#icon{
+    height: 50px;
+    width: 50px;
+margin-top: 10px;
+    /* border: 1px solid black; */
+    width: fit-content;
+    height: fit-content;
+    margin-left: 300px;
+
+}
+.search_bar{
+
+    border: none;
+    margin: 20px;
+    height: 20px;
+    width: 251px;
+    /* border: 1px solid black; */
+}
+.below_nav{
+     
+    width: 100%;
+    border: 1px solid black;
+    height: 300px;
+    display: flex;
+}
+.add{
+
+    width: 40%;
+    height: 300px;
+     /* border: 1px solid black;  */
+
+}
+.logo{
+    width: 50%;
+    height: 300px;
+    margin-left:15%;
+}
+.New_nav{
+    padding: auto;
+    margin-left: 100px;
+
+}
+
+.ad-container {
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    max-width: 400px;
+    margin: auto;
+}
+
+.ad-container h2 {
+    color: #007BFF;
+    margin-bottom: 10px;
+}
+
+.ad-container p {
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.cta-button {
+    background-color: #007BFF;
+    color: white;
+    padding: 10px 15px;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.cta-button:hover {
+    background-color: #0056b3;
+}
+
+
+
+
+
+
+.news-section {
+    margin-top: 20px;
+}
+
+.news-item {
+    border-bottom: 1px solid #ddd;
+    padding: 15px 0;
+}
+
+.news-item:last-child {
+    border-bottom: none;
+}
+
+.news-item h2 {
+    margin: 0;
+    color: #007BFF;
+}
+
+.news-item p {
+    margin: 5px 0;
+    color: #333;
+}
+
+time {
+    font-size: 0.9em;
+    color: #777;
+}
